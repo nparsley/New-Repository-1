@@ -8,7 +8,7 @@
 <img src='splurtyhome.PNG'>
 
 * Users will be sent to the home page.  A single quote is diplayed on the home page and each time the page is refreshed a quote is pulled at random to be displayed.  The user 
-  can refresh the page by clicking on the "you know you need to code" red circle or the "this isn;t enough, I need more" link.
+  can refresh the page by clicking on the "you know you need to code" red circle or the "This isn't enough, I need more" link.
 
 <img src='quotecontribute.PNG'>
 
