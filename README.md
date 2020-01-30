@@ -29,3 +29,6 @@
 <img src='splurtyfooter.PNG'>
 
 * The user will find a link to the portfolio of the individual responsible for editing the Splurty app along with a link to an educational platform that teaches how to code.
+
+
+https://splurty-nick-parsley.herokuapp.com/
